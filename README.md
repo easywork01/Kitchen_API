@@ -2,9 +2,9 @@
 
 https://loopxyz.notion.site/Take-home-interview-Store-Monitoring-12664a3c7fdf472883a41457f0c9347d
  
-# Take home interview - Store Monitoring
+# Store Monitoring
 
-This will be a take-home interview that tests real-life problem-solving ability, ability to build something from scratch and handle complex algorithmic problems. 
+This will tests real-life problem-solving ability, ability to build something from scratch and handle complex algorithmic problems. 
 
 ## Problem statement
 
