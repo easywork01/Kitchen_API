@@ -1,7 +1,4 @@
-# LOOP_API
 
-https://loopxyz.notion.site/Take-home-interview-Store-Monitoring-12664a3c7fdf472883a41457f0c9347d
- 
 # Store Monitoring
 
 This will tests real-life problem-solving ability, ability to build something from scratch and handle complex algorithmic problems. 
